@@ -1,7 +1,5 @@
-#expenses tracker
+-java spring boot. added dependencies: spring web, security, jpa and mysql.
 <br>
-java spring boot. added dependencies -> spring web, security, jpa and mysql.
+-testing the requests using postman (using auth in postman for the spring security)
 <br>
-testing the requests using postman (using auth in postman for the spring security)
-<br>
-not implemented spring secutiry
+-so learned the MVC architecture but not a good project structure and didn't exactly follow the best practices
